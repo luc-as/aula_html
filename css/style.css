@@ -1,0 +1,37 @@
+body{
+    /* background: #e8c5A2; */
+    /* background: green; */
+    /* background: hsl(120, 100%, 0%); */
+    background: hsl(210, 50%, 90%); /*Define o fundo. default: branco*/
+     /* color: yellow; /*Define a cor do texto */
+     margin-left: 20px;
+     margin-right: 300px;
+}
+
+header{
+  margin-top: 100px;
+}
+h1{
+  color: red;
+  font-family: fantasy;
+}
+
+h2{
+  font-family: fantasy;
+}
+
+p{
+  font-size: 18px;
+}
+
+img{
+  margin-bottom: 120px;
+}
+
+.img_padrao{
+  margin-bottom: 20px;
+}
+
+footer{
+  margin: auto;
+}
